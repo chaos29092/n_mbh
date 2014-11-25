@@ -30,43 +30,31 @@
 
             {{--product list--}}
             <div class="container" id="productList">
-                <h3>PRODUCTS</h3>
+                <h3 class="text-uppercase">{{Lang::get('page.products')}}</h3>
             </div>
             <div class="container" id="productImg">
                 <div class="row">
-                  <div class="col-xs-6 col-md-3">
-                    <a href="{{url('product/mobile')}}" class="thumbnail">
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/small')}}" class="thumbnail">
                       <img src="{{asset('img/index/1.jpg')}}" alt="...">
                       <div class="caption">
-                        <h5 class="text-center">hot asphalt mixing plant
-                                                LB3000 (240TPH) Asphalt Mixing Plant</h5>
+                        <h5 class="text-center">{{Lang::get('page.smbh')}} - 50T~200T</h5>
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a href="{{url('product/mobile')}}" class="thumbnail">
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/medium')}}" class="thumbnail">
                       <img src="{{asset('img/index/1.jpg')}}" alt="...">
                       <div class="caption">
-                        <h5 class="text-center">hot asphalt mixing plant
-                                                LB3000 (240TPH) Asphalt Mixing Plant</h5>
+                        <h5 class="text-center">{{Lang::get('page.mmbh')}} - 300T~700T</h5>
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a href="#" class="thumbnail">
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/big')}}" class="thumbnail">
                       <img src="{{asset('img/index/1.jpg')}}" alt="...">
                       <div class="caption">
-                        <h5 class="text-center">hot asphalt mixing plant
-                                                LB3000 (240TPH) Asphalt Mixing Plant</h5>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <h5 class="text-center">hot asphalt mixing plant
-                                                LB3000 (240TPH) Asphalt Mixing Plant</h5>
+                        <h5 class="text-center">{{Lang::get('page.bmbh')}} - 800T~1000T</h5>
                       </div>
                     </a>
                   </div>
@@ -80,15 +68,17 @@
             <div class="container" style="margin-top: 20px; margin-bottom: 20px;">
             	<div class="row panel">
             		<div class="col-md-4 bg_blur ">
-                	    <a href="{{url('contact')}}" class="follow_btn hidden-xs">Contact</a>
             		</div>
                     <div class="col-md-8  col-xs-12">
                        <img src="{{asset('img/index_logo.jpg')}}" class="img-thumbnail picture hidden-xs" />
                        <img src="{{asset('img/index_logo.jpg')}}" class="img-thumbnail visible-xs picture_mob" />
                        <div class="header">
-                            <h2>ABOUT US</h2>
-                            <h4>Zhengzhou HANVY Machinery And Equipment Co., Ltd.</h4>
-                            <span>is the exportation department of Hanvy group of companies. Hanvy group of company is set up by 6 factories. The 6 factories are brothers companies located within Henan province, separately about 50-350km away from Zhengzhou the capital City of Henan province. In order to deal with commodity inspection, customs declaration, fast orders processing and urgent responds to the customer enquiries, quick responds to the customers after sales services, maintaining and satisfaction of the customers is our priority goal...</span>
+                            <h2>{{Lang::get('page.aboutUs')}}</h2>
+                            <h4>{{Lang::get('page.nucleonCompany')}}</h4>
+                            <span>{{Lang::get('page.about_p1')}}</span>
+                            <p>{{Lang::get('page.about_p3')}}</p>
+                            <p>{{Lang::get('page.about_p4')}}</p>
+
                        </div>
                     </div>
                 </div>

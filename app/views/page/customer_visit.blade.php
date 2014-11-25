@@ -16,58 +16,59 @@
 
 @section('content_page')
     <div>
-        <h4>Customer Visit</h4>
+        <h4>{{Lang::get('page.customerVisit')}}</h4>
         <hr/>
         <div class="row">
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_1.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_2.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_3.jpg')}}" alt="Customer Visit">
+                    </a>
+                  </div>
+        </div>
+        <div class="row">
+                  <div class="col-xs-6 col-md-4">
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_4.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_5.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_6.jpg')}}" alt="Customer Visit">
+                    </a>
+                  </div>
+        </div>
+        <div class="row">
+                  <div class="col-xs-6 col-md-4">
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_7.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
                   <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
-                      <div class="caption">
-                        <p class="text-center">Customers from Tajikistan</p>
-                      </div>
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_8.jpg')}}" alt="Customer Visit">
                     </a>
                   </div>
-                </div>
+                  <div class="col-xs-6 col-md-4">
+                    <a class="thumbnail">
+                      <img src="{{asset('img/cv/cv_9.jpg')}}" alt="Customer Visit">
+                    </a>
+                  </div>
+        </div>
         <hr/>
     </div>
 @stop
