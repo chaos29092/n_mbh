@@ -22,7 +22,9 @@ Route::get('ok', 'PageController@ok');
 
 
 Route::get('products/{category}', 'PageController@products');
-Route::get('product/{model}', 'PageController@productMbh');
+Route::get('product/small/{model}', 'PageController@productSmall');
+Route::get('product/medium/{model}', 'PageController@productMedium');
+Route::get('product/big/{model}', 'PageController@productbig');
 
 //contact
 Route::post('mailPost', function()
