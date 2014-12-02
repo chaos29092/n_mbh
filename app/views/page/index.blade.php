@@ -23,7 +23,7 @@
                   <img src="{{asset('img/banner1.jpg')}}" class="img-responsive" alt="...">
                 </div>
                 <div class="item">
-                  <img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="...">
+                  <a href="{{url('products/all')}}" target="_blank"><img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="MBH"></a>
                 </div>
               </div>
             </div>
