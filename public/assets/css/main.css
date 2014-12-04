@@ -675,7 +675,6 @@ hr.blueline {
 *********************************************/
 
 .product{
-    border: 1px solid #dddddd;
     height: 321px;
 }
 
@@ -692,6 +691,7 @@ hr.blueline {
     font-size: 20px;
 }
 
+.product-desc{
 .product-desc{
     font-size: 14px;
 }

@@ -1,11 +1,11 @@
 @extends('sidebar_master')
 
 @section('title')
-    Hanvy - about us.
+nucleon - {{Lang::get('page.aboutUs')}}
 @stop
 
 @section('description')
-    This is description.
+nucleon - {{Lang::get('page.aboutUs')}}
 @stop
 
 @section('topimg')

@@ -1,11 +1,11 @@
 @extends('sidebar_master')
 
 @section('title')
-    Hanvy - about us.
+nucleon - {{Lang::get('page.merchants')}}
 @stop
 
 @section('description')
-    This is description.
+nucleon - {{Lang::get('page.merchants')}}
 @stop
 
 @section('topimg')
@@ -16,7 +16,7 @@
 
 @section('content_page')
     <div>
-        <h4>SOLUTION</h4>
+        <h4>{{Lang::get('page.merchants')}}</h4>
         <hr/>
         <div>
             <div class="media">

@@ -27,7 +27,7 @@
         					<div class="product col-md-5 service-image-left">
 
         						<center>
-        							<img id="item-display" src="@yield('productImg')" alt=""/>
+        							<img id="item-display" src="@yield('productImg')" class="img-responsive img-rounded" alt=""/>
         						</center>
         					</div>
 

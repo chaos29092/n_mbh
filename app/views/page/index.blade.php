@@ -1,11 +1,11 @@
 @extends('master')
 
 @section('title')
-    This is title.
+nucleon - {{Lang::get('page.indexTitle')}}
 @stop
 
 @section('description')
-    This is description.
+nucleon - {{Lang::get('page.about_p4')}}
 @stop
 
 @section('content')

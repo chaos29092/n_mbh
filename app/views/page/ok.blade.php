@@ -1,7 +1,7 @@
 @extends('sidebar_master')
 
 @section('title')
-Cotek - Thank you for your message
+nucleon - Thank you for your message
 @stop
 
 @section('description')
