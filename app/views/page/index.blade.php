@@ -36,7 +36,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                 <div class="row">
                   <div class="col-xs-6 col-md-4">
                     <a href="{{url('products/small')}}" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
+                      <img src="{{asset('img/products/mbh_50t.jpg')}}" alt="...">
                       <div class="caption">
                         <h5 class="text-center">{{Lang::get('page.smbh')}} - 50T~200T</h5>
                       </div>
@@ -44,7 +44,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                   </div>
                   <div class="col-xs-6 col-md-4">
                     <a href="{{url('products/medium')}}" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
+                      <img src="{{asset('img/products/mbh_400t.jpg')}}" alt="...">
                       <div class="caption">
                         <h5 class="text-center">{{Lang::get('page.mmbh')}} - 300T~700T</h5>
                       </div>
@@ -52,7 +52,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                   </div>
                   <div class="col-xs-6 col-md-4">
                     <a href="{{url('products/big')}}" class="thumbnail">
-                      <img src="{{asset('img/index/1.jpg')}}" alt="...">
+                      <img src="{{asset('img/products/mbh_1000t.jpg')}}" alt="...">
                       <div class="caption">
                         <h5 class="text-center">{{Lang::get('page.bmbh')}} - 800T~1000T</h5>
                       </div>
