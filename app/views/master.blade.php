@@ -55,15 +55,15 @@
 
         	<div class="container">
         	    <ul class="list-inline text-center">
-        	          <li><a href="">{{Lang::get('page.home')}}</a></li>
+        	          <li><a href="/">{{Lang::get('page.home')}}</a></li>
         	          <li>|</li>
-        	          <li><a href="">{{Lang::get('page.products')}}</a></li>
+        	          <li><a href="{{url('products/all')}}">{{Lang::get('page.products')}}</a></li>
                       <li>|</li>
-                      <li><a href="">{{Lang::get('page.service')}}</a></li>
+                      <li><a href="{{url('about')}}">{{Lang::get('page.aboutUs')}}</a></li>
                       <li>|</li>
-                      <li><a href="">{{Lang::get('page.merchants')}}</a></li>
+                      <li><a href="{{url('solution')}}">{{Lang::get('page.merchants')}}</a></li>
                       <li>|</li>
-                      <li><a href="">{{Lang::get('page.contact')}}</a></li>
+                      <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
                 </ul>
                 <p class="text-center">Copyright © Zhengzhou Hanvy Machinery And Equipment Co., Ltd.</p>
         	</div>

@@ -70,9 +70,7 @@ nucleon - {{Lang::get('page.about_p4')}}
             		<div class="col-md-4 bg_blur ">
             		</div>
                     <div class="col-md-8  col-xs-12">
-                       <img src="{{asset('img/index_logo.jpg')}}" class="img-thumbnail picture hidden-xs" />
-                       <img src="{{asset('img/index_logo.jpg')}}" class="img-thumbnail visible-xs picture_mob" />
-                       <div class="header">
+                       <div class="header" id="indexheader">
                             <h2>{{Lang::get('page.aboutUs')}}</h2>
                             <h4>{{Lang::get('page.nucleonCompany')}}</h4>
                             <span>{{Lang::get('page.about_p1')}}</span>
