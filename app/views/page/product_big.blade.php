@@ -9,7 +9,7 @@ nucleon - {{Lang::get('page.mbh')}} {{$model}}
 @stop
 
 @section('productImg')
-@if($model == '800t'){{asset('img/products/mbh_80t.jpg')}}
+@if($model == '800t'){{asset('img/products/mbh_800t.jpg')}}
 @elseif($model == '1000t'){{asset('img/products/mbh_1000t.jpg')}}
 @endif
 @stop
