@@ -50,9 +50,9 @@
             					<hr>
             					<a href="mailto:nylyzj.com"><span class="glyphicon glyphicon-envelope"></span>  {{Lang::get('page.sendMailToUs')}}</a> <br/>
             					<div class="btn-group cart">
-            						<button type="button" class="btn btn-primary btn-lg">
+                                    <a href="#contact"><button type="button" class="btn btn-primary btn-lg">
             							<span class="glyphicon glyphicon-comment"></span>{{Lang::get('page.getPrice')}}
-            						</button>
+            						</button></a>
             					</div>
 
             				</div>
