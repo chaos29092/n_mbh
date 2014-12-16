@@ -23,7 +23,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                   <img src="{{asset('img/banner1.jpg')}}" class="img-responsive" alt="...">
                 </div>
                 <div class="item">
-                  <a href="{{url('products/all')}}" target="_blank"><img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="MBH"></a>
+                  <img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="MBH">
                 </div>
               </div>
             </div>
