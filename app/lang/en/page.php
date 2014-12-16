@@ -2,9 +2,9 @@
 
 return array(
 //menu
-    'home' => 'Index',
+    'home' => 'Home',
     'products' => 'Product',
-    'aboutUs' => 'About NUCLCON',
+    'aboutUs' => 'About NUCLEON',
     'customerVisit' => 'Customer Visit',
     'service' => 'Service',
     'merchants' => 'Agent Wanted',
@@ -20,24 +20,24 @@ return array(
     'orMail' => 'or email to us',
 
 //product page
-    'sendMailToUs' => 'send us an email',
+    'sendMailToUs' => 'Send us an email',
     'getPrice' => 'inquiry',
-    'dec' => 'product details',
+    'dec' => 'Product Details',
     'parameters' => 'Specifications',
-    'fillInquiry' => 'fill in your inquiry',
+    'fillInquiry' => 'Fill in your inquiry',
     'email' => 'Email',
     'name' => 'Name',
     'message' => 'Message',
-    'send' => 'send',
+    'send' => 'Send',
 
 //price list page
-    'smbh' => 'small range',
-    'mmbh' => 'middle range',
-    'bmbh' => 'large range',
+    'smbh' => 'Small range',
+    'mmbh' => 'Middle range',
+    'bmbh' => 'Large range',
 
 //about us
     'nucleonCompany' => 'NUCLEON (Henan) Mobile Boat Hoist Co., Ltd',
-    'about_p1' => 'we are specialized in manufacturing mobile boat hoist，and we are 
+    'about_p1' => 'We are specialized in manufacturing mobile boat hoist，and we are
 located in Henan Crane Industrial Park, which has good raputition by "Town of China Crane" 
 which is in Changyuan County of China.Our capital is USD4000,000，and land area is 320,000
 ㎡. There are 1700 staff in our company and 400 people of them are sebior and medium 
@@ -71,8 +71,8 @@ enterprise integrated in research,manufacture and sales.',
     'f4' => 'night sight of office building',
     'f5' => '#2 Apartment',
     'f6' => 'Open air working site',
-    'f7' => 'multi-functional hall',
-    'f8' => 'training center',
+    'f7' => 'Multi-functional hall',
+    'f8' => 'Training center',
     'f9' => 'Corner of factory',
 
     'researchteam' => 'research team',
@@ -111,30 +111,30 @@ nondestructive testing instrument
 //home
 
 //customer visit
-    'customerVisit' => 'customer visit',
+    'customerVisit' => 'Customer Visit',
 
 //product details
     'pdec_1' => 'Our mobile boat hoist is designed as per requirements of customer and used
 for carry all kinds of boats and rated lifting capacity can reach',
-    'pdec_2' => '。For design,we fully consider height of top beam possibly beyond by 
+    'pdec_2' => 'For design,we fully consider height of top beam possibly beyond by
 lifting object. So we choose "C" structure for object lifted easily go into mobile boat 
 hoist',
     'pdec_3' => 'Yacht crane，which is also called boat hoist，is widely used water sports.
 club, sailing and voyage learning',
     'pdec_4' => 'Mobile boat hoist,which can carry boat with different capacity (10t-1000t)
 out of water,is used for doing maintainenance for boat or make new boat into water.',
-    'pdec_50t' => 'max.width of lifting boat is 6m。',
-    'pdec_100t' => 'max.width of lifting boat is 8.5m。',
-    'pdec_150t' => 'max.width of lifting boat is 9.5m。',
-    'pdec_200t' => 'max.width of lifting boat is 10m。',
-    'pdec_300t' => 'max.width of lifting boat is 12m。',
-    'pdec_400t' => 'max.width of lifting boat is 12m。',
-    'pdec_500t' => 'max.width of lifting boat is 15m。',
-    'pdec_700t' => 'max.width of lifting boat is 16m。',
-    'pdec_800t' => 'max.width of lifting boat is 18m。',
-    'pdec_1000t' => 'max.width of lifting boat is 18m。',
+    'pdec_50t' => 'max.width of lifting boat is 6m.',
+    'pdec_100t' => 'max.width of lifting boat is 8.5m.',
+    'pdec_150t' => 'max.width of lifting boat is 9.5m.',
+    'pdec_200t' => 'max.width of lifting boat is 10m.',
+    'pdec_300t' => 'max.width of lifting boat is 12m.',
+    'pdec_400t' => 'max.width of lifting boat is 12m.',
+    'pdec_500t' => 'max.width of lifting boat is 15m.',
+    'pdec_700t' => 'max.width of lifting boat is 16m.',
+    'pdec_800t' => 'max.width of lifting boat is 18m.',
+    'pdec_1000t' => 'max.width of lifting boat is 18m.',
 
-    'summary' => 'summary',
+    'summary' => 'Summary',
     'summary_1' => 'Mobile boat hoist can put boat on the bank, so it is easy to do 
 maintenance and repair for boats. This can greatly reduce the maintenance cost.',
     'summary_2' => 'The mobile boat hoist comprises a main structure, drive system, 
@@ -142,7 +142,7 @@ steering system, lifting system, walking system, engine
 , electric control and safety protection system, wireless remote control or cab (optional) 
 etc.',
 
-    'mainTechnicalFeatures' => 'main technical features',
+    'mainTechnicalFeatures' => 'Main Technical Features',
     'mtf_1' => 'Composed of main structure,wheel system,lifting system,steering
 system,hydraulic tranmission system and electrical system.Main structure is of “匚”, 
 which can carry boat which self height is over height of boat hoist.',
