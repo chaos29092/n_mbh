@@ -38,7 +38,7 @@
           <div class="container">
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
-                <a href="/"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.home')}}</button></a>
+                <a href="{{url('/')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.home')}}</button></a>
                 <a href="{{url('products/all')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.products')}}</button></a>
                 <a href="{{url('about')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.aboutUs')}}</button></a>
                 <a href="{{url('customer_visit')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.customerVisit')}}</button></a>
