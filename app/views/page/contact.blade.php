@@ -18,10 +18,11 @@ nucleon - {{Lang::get('page.contact')}}
     <div>
         <h4>CONTACT US</h4>
         <hr/>
-        <p><strong>Zhengzhou Hanvy Machinery And Equipment Co., Ltd International Trade</strong></p>
+        <p><strong>Henan Nucleon Mobile Boat Hoist Co., Ltd.</strong></p>
         <p><strong>Contact Person:</strong></p>
-        <p>Mobile: 0371 - 88888888</p>
-        <p><a href="mailto:info@nylyzj.com"></a>E-mail: info@nylyzj.com</p>
+        <p>Mobile: 0086 18603710680</p>
+        <p>Email: </p>
+        <p><a href="mailto:info@nucleon-mbh.com"></a>info@nucleon-mbh.com</p>
 
         <hr/>
         <div id="contact">
