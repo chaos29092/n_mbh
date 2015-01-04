@@ -123,5 +123,11 @@ return array(
 //页面标题
     'indexTitle' => '专业的游艇搬运机生产，出口工厂',
 
+//联系我们
+    'emailaddress' => '邮件地址',
+    'mobile' => '联系电话',
+    'address' => '联系地址',
+    'ourAddress' => '河南郑州，长椿路11号，大学科技园，Y06栋，邮编：450001',
+
 
 );

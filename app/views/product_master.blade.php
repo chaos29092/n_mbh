@@ -81,7 +81,7 @@
                             <span>({{Lang::get('page.chatOnline')}})</span>
                             <br/><br/>
                             <p> {{Lang::get('page.orMail')}}</p>
-                            <a href="mailto:admin@hanvymbh.com"><span class="glyphicon glyphicon-envelope"></span> admin@hanvymbh.com</a>
+                            <a href="mailto:info@nucleon-mbh.com"><span class="glyphicon glyphicon-envelope"></span> info@nucleon-mbh.com</a>
                             <br/><br/>
                             <a href="{{url('contact')}}" target="_blank"><img src="{{asset('img/contact.jpg')}}" class="img-responsive img-rounded center-block" alt=""/></a>
                         </div>

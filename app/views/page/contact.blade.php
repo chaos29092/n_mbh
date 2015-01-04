@@ -16,13 +16,13 @@ nucleon - {{Lang::get('page.contact')}}
 
 @section('content_page')
     <div>
-        <h4>CONTACT US</h4>
+        <h4>{{Lang::get('page.contact')}}</h4>
         <hr/>
-        <p><strong>Henan Nucleon Mobile Boat Hoist Co., Ltd.</strong></p>
-        <p><strong>Contact Person:</strong></p>
-        <p>Mobile: 0086 18603710680</p>
-        <p>Email: </p>
-        <p><a href="mailto:info@nucleon-mbh.com"></a>info@nucleon-mbh.com</p>
+        <p><strong>{{Lang::get('page.nucleonCompany')}}</strong></p>
+        <p>{{Lang::get('page.mobile')}}: 0086 18603710680</p>
+        <p>{{Lang::get('page.emailaddress')}}: <a href="mailto:info@nucleon-mbh.com">info@nucleon-mbh.com</a></p>
+        <p>{{Lang::get('page.address')}}: {{Lang::get('page.ourAddress')}}</p>
+
 
         <hr/>
         <div id="contact">

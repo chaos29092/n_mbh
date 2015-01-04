@@ -188,5 +188,10 @@ FEM1001/98。',
 //page title
     'indexTitle' => 'professional designer and manufacturer of mobile boat hoist',
 
+    //联系我们
+    'emailaddress' => 'Email',
+    'mobile' => 'Mobile',
+    'address' => 'Address',
+    'ourAddress' => 'Y06 Building,11 Changchun Road, Zhengzhou City,Henan,China,450001',
 
 );
