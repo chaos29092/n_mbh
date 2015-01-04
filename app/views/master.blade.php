@@ -29,8 +29,8 @@
 
         <div id="top">
             <div class="container">
-                <a href="/"><img id="logo" src="{{asset('img/logo.jpg')}}" alt=""/></a>
-                <p class="pull-right"><a href="">English</a>  |  <a href="">Pусский</a>  |  <a href="">中文</a></p>
+                <a href="{{url('/')}}"><img id="logo" src="{{asset('img/logo.jpg')}}" alt="{{Lang::get('page.ff1')}}"/></a>
+                <p class="pull-right"><a href="http://nucleon-mbh.com">English</a>  |  <a href="http://ru.nucleon-mbh.com">Pусский</a>  |  <a href="http://cn.nucleon-mbh.com">中文</a></p>
             </div>
         </div>
 

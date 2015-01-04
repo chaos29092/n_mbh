@@ -194,4 +194,22 @@ FEM1001/98。',
     'address' => 'Address',
     'ourAddress' => 'Y06 Building,11 Changchun Road, Zhengzhou City,Henan,China,450001',
 
+    //服务
+    'preSale' => 'Pre-sale Service',
+    'servicep_1' => 'Our professional service staff for technical consulting is on line 24 hours. They guide customer choose what they need, not the most expensive, but the most suitable. A special questionnaire for crane and hoist we provide, will help us produce the most suitable and economic customized equipments.',
+    'saleService' => 'Sale Service',
+    'service_dt_1' => 'Model and specification',
+    'service_dd_1' => 'By means of communicating with customers sufficiently, measuring and analyzing the condition of customer’s working site and the detailed request for equipments, such as brand for motor and reducer and etc., we confirm the model and the specification of machinery step by step.',
+    'service_dt_2' => 'Drawing',
+    'service_dd_2' => 'The drawing for assembly and foundation is available. All necessary files, such as packing list, delivering list, drawings will be sent to customer.',
+    'service_dt_3' => 'Modeling test',
+    'service_dd_3' => 'We offer modeling test and test report for large final equipments, the customer is invited to our factory for visiting and observing the test.',
+    'afterSale' => 'After-sale Service',
+    'service_dt_4' => 'Installation and debugging',
+    'service_dd_4' => 'For all projects and customers, Hanvy offers on-site field service for installation and debugging . As your request, Hanvy provides the most comprehensive training for the operating and maintenance too. Our certified and accredited trainers help to ensure the high level of expertise.  With the field service, we are confident to enable Hanvy customer to use our machines free of any worry. ',
+    'service_dt_5' => 'Maintenance solution',
+    'service_dd_5' => 'You may have the best-trained, most safety conscious operators, but if your cranes and hoists are not properly inspected and maintained, you could suffer expensive failures and accidents - that could be prevented.  So for a long period, we give a proposal on maintenance solutions. ',
+    'service_dt_6' => 'Easy-wear parts',
+    'service_dd_6' => 'we maintain an extensive spare parts inventory for all our equipment. From the smallest bearing to the most complex circuit board, Hanvy is committed to having all parts on hand to keep your project running. We are well stocked with a full inventory list of spare parts, components and accessories to support our clientele with the products they purchase from us.',
+
 );
