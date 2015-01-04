@@ -616,7 +616,6 @@ hr.blueline {
 .header{
     color : #808080;
     margin-left:10%;
-    margin-top:70px;
 }
 .picture{
     height:150px;
@@ -691,7 +690,6 @@ hr.blueline {
     font-size: 20px;
 }
 
-.product-desc{
 .product-desc{
     font-size: 14px;
 }
@@ -818,6 +816,3 @@ hr.blueline {
     padding-bottom: 10px;
 }
 
-div#indexheader {
-    margin-top: 20px;
-}
