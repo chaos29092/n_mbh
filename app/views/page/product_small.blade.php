@@ -98,17 +98,17 @@ nucleon - {{Lang::get('page.mbh')}} 32t ~ 150t
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt7')}}</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt8')}}</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt9')}}</td>
@@ -126,24 +126,24 @@ nucleon - {{Lang::get('page.mbh')}} 32t ~ 150t
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt11')}}</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>4个</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
+                <td>4</td>
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt12')}}</td>
-                <td>1个</td>
-                <td>1个</td>
-                <td>2个</td>
-                <td>2个</td>
+                <td>1</td>
+                <td>1</td>
+                <td>2</td>
+                <td>2</td>
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt13')}}</td>
-                <td>4个</td>
-                <td>4个</td>
-                <td>8个</td>
-                <td>8个</td>
+                <td>4</td>
+                <td>4</td>
+                <td>8</td>
+                <td>8</td>
             </tr>
             <tr>
                 <td>{{Lang::get('page.pt14')}}</td>
