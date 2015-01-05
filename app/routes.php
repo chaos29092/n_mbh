@@ -35,6 +35,6 @@ Route::post('mailPost', function()
         $message->to(array('178399731@qq.com'), 'inquiry')->subject('MBH - 英语 - 网站询盘');
     });
 
-    return Redirect::back()->with('message', 'Message Send Successfully! We will contact you as soon as possible.');
+    return Redirect::to('ok');
 });
 

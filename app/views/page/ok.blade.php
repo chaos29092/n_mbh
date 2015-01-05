@@ -26,23 +26,23 @@ Thank you for your message
         <hr/>
     </div>
 
-    <!-- Google Code for cotek_n &#30041;&#35328;&#25552;&#20132; Conversion Page -->
+    <!-- Google Code for &#21457;&#36865;&#35810;&#30424; Conversion Page -->
     <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 964747526;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "ttj_CMiDy1cQhsKDzAM";
-    var google_remarketing_only = false;
-    /* ]]> */
+        /* <![CDATA[ */
+        var google_conversion_id = 957389509;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "ffffff";
+        var google_conversion_label = "BIHUCMLqyFgQxbXCyAM";
+        var google_remarketing_only = false;
+        /* ]]> */
     </script>
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
     </script>
     <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/964747526/?label=ttj_CMiDy1cQhsKDzAM&amp;guid=ON&amp;script=0"/>
-    </div>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/957389509/?label=BIHUCMLqyFgQxbXCyAM&amp;guid=ON&amp;script=0"/>
+        </div>
     </noscript>
 @stop
 

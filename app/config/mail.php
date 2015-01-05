@@ -28,7 +28,7 @@ return array(
     |
     */
 
-    'host' => 'box1017.bluehost.com',
+    'host' => 'box753.bluehost.com',
 
     /*
     |--------------------------------------------------------------------------
@@ -54,7 +54,7 @@ return array(
     |
     */
 
-    'from' => array('address' => 'hanvy@coolmeizi.com', 'name' => 'chaos'),
+    'from' => array('address' => 'info@youyoou.com', 'name' => 'chaos'),
 
     /*
     |--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
     |
     */
 
-    'username' => 'hanvy@coolmeizi.com',
+    'username' => 'info@youyoou.com',
 
     /*
     |--------------------------------------------------------------------------

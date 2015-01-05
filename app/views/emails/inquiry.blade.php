@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
-		<h2>新的询盘来自hanvy网站 </h2>
+		<h2>新的询盘来自 nucleon.com </h2>
 
 		<div>
 			<p>询盘内容：</p>
