@@ -12,19 +12,19 @@ nucleon - {{Lang::get('page.about_p4')}}
      {{--Carousel--}}
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
               <!-- Indicators -->
-              <ol class="carousel-indicators">
-                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-              </ol>
+              {{--<ol class="carousel-indicators">--}}
+                {{--<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>--}}
+                {{--<li data-target="#carousel-example-generic" data-slide-to="1"></li>--}}
+              {{--</ol>--}}
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox" id="carousel">
                 <div class="item active">
-                  <img src="{{asset('img/banner1.jpg')}}" class="img-responsive" alt="...">
+                  <img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="...">
                 </div>
-                <div class="item">
-                  <img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="MBH">
-                </div>
+                {{--<div class="item">--}}
+                  {{--<img src="{{asset('img/banner2.jpg')}}" class="img-responsive" alt="MBH">--}}
+                {{--</div>--}}
               </div>
             </div>
 
