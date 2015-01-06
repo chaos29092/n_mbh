@@ -16,12 +16,11 @@ Thank you for your message
 
 @section('content_page')
     <div>
-        <h2 class="text-center">We have received your information!</h2>
+        <h2 class="text-center">{{Lang::get('email_p1')}}</h2>
 
-        <blockquote>Thank you for your message, we will reply you as soon as possible! <br/><br/>
-        If your request is urgent, please call tel: +86 139 3821 6025.
+        <blockquote>{{Lang::get('email_p2')}}<br/><br/>
+        {{Lang::get('email_p3')}}
         </blockquote>
-
 
         <hr/>
     </div>

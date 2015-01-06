@@ -213,4 +213,10 @@ FEM1001/98。',
     'service_dt_6' => 'Easy-wear parts',
     'service_dd_6' => 'we maintain an extensive spare parts inventory for all our equipment. From the smallest bearing to the most complex circuit board, Hanvy is committed to having all parts on hand to keep your project running. We are well stocked with a full inventory list of spare parts, components and accessories to support our clientele with the products they purchase from us.',
 
+    //email
+    'email_p1' => 'We have received your information!',
+    'email_p2' => 'Thank you for your message, we will reply you as soon as possible!',
+    'email_p3' => 'If your request is urgent, please call tel: +86 139 3821 6025.',
+
+
 );
