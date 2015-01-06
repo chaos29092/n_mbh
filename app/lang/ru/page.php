@@ -25,9 +25,10 @@ return array(
     'dec' => 'Подробнее о продукции',
     'parameters' => 'Техническая характеристика',
     'fillInquiry' => 'Заполните ваш вопрос или потребность',
-    'email' => 'Email',
+    'email' => 'Email(*)',
     'name' => 'Name',
-    'message' => 'Message',
+    'message' => 'Message(*)',
+    'country' => 'Country',
     'send' => 'Отправить',
 
 //产品列表页

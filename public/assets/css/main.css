@@ -10,7 +10,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 body {
-    font-family: Verdana, Geneva, Arial,sans-serif !important;
+    font-family: Roboto, Arial, Tahoma, Verdana !important;
 }
 
 body h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {

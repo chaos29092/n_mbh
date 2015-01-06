@@ -25,9 +25,10 @@ return array(
     'dec' => 'Product Details',
     'parameters' => 'Specifications',
     'fillInquiry' => 'Fill in your inquiry',
-    'email' => 'Email',
+    'email' => 'Email(*)',
     'name' => 'Name',
-    'message' => 'Message',
+    'message' => 'Message(*)',
+    'country' => 'Country',
     'send' => 'Send',
 
 //price list page

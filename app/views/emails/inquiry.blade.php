@@ -11,6 +11,8 @@
 			<p>Email: {{ $email }}</p>
 			<p>Name: {{$subject}}</p>
 			<p>Message: {{$mes}}</p>
+			<p>Country: {{$country}}</p>
+			<p>Phone: {{$phone}}</p>
 		</div>
 	</body>
 </html>

@@ -31,7 +31,7 @@ Route::post('mailPost', function()
 {
     $date = Input::all();
 
-    Mail::send('emails.inquiry', array('subject'=>$date['subject'],'mes'=>$date['mes'],'email'=>$date['email']),function($message){
+    Mail::send('emails.inquiry', array('subject'=>$date['subject'],'mes'=>$date['mes'],'email'=>$date['email'],'country'=>$date['country'],'phone'=>$date['phone']),function($message){
         $message->to(array('178399731@qq.com'), 'inquiry')->subject('MBH - 英语 - 网站询盘');
     });
 

@@ -25,9 +25,10 @@ return array(
     'dec' => '产品详情',
     'parameters' => '规格参数',
     'fillInquiry' => '请填写您的问题或要求',
-    'email' => 'Email',
+    'email' => 'Email(*)',
     'name' => 'Name',
-    'message' => 'Message',
+    'message' => 'Message(*)',
+    'country' => 'Country',
     'send' => '发送信息',
 
 //产品列表页

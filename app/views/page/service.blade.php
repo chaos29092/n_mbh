@@ -46,22 +46,41 @@ nucleon - {{Lang::get('page.service')}}
                     <div class="row">
                         <h4>{{Lang::get('page.fillInquiry')}}</h4>
                         {{ Form::open(array('url' => 'mailPost', 'class' => 'form-horizontal', 'role' => 'form' )) }}
+
                         <div class="form-group">
-                            {{ Form::label('email', 'Email', array('class' => 'col-md-1 control-label')) }}
+                            {{ Form::label('country', Lang::get('page.country'), array('class' => 'col-md-2 control-label')) }}
                             <div class="col-md-6">
-                                <input required placeholder="youremail@example.com" class="form-control" name="email" type="email" id="email">
+                                <input placeholder="your country" class="form-control" name="country" type="text">
                             </div>
                         </div>
 
                         <div class="form-group">
-                            {{ Form::label('subject', 'Name', array('class' => 'col-md-1 control-label')) }}
+                            {{ Form::label('subject', Lang::get('page.name'), array('class' => 'col-md-2 control-label')) }}
                             <div class="col-md-6">
-                                <input required placeholder="your name" class="form-control" name="subject" type="text" id="subject">
+                                <input required placeholder="your name" class="form-control" name="subject"
+                                       type="text" id="subject">
                             </div>
                         </div>
 
                         <div class="form-group">
-                            {{ Form::label('message', 'Message', array('class' => 'col-md-1 control-label')) }}
+                            {{ Form::label('email', Lang::get('page.email'), array('class' => 'col-md-2 control-label')) }}
+                            <div class="col-md-6">
+                                <input required placeholder="youremail@example.com" class="form-control"
+                                       name="email" type="email" id="email">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            {{ Form::label('phone', 'Phone', array('class' => 'col-md-2 control-label')) }}
+                            <div class="col-md-6">
+                                <input placeholder="your phone number" class="form-control" name="phone"
+                                       type="text">
+                            </div>
+                        </div>
+
+
+                        <div class="form-group">
+                            {{ Form::label('message', Lang::get('page.message'), array('class' => 'col-md-2 control-label')) }}
                             <div class="col-md-8">
                                 <textarea required class="form-control" rows="8" name="mes" cols="50"></textarea>
                             </div>
@@ -69,7 +88,7 @@ nucleon - {{Lang::get('page.service')}}
 
                         <div class="form-group">
                             <div class="col-md-offset-1 col-sm-10">
-                                {{ Form::submit('send a message', array('class' => 'btn btn-primary')) }}
+                                {{ Form::submit(Lang::get('page.send'), array('class' => 'btn btn-primary')) }}
                             </div>
                         </div>
                         {{ Form::close() }}

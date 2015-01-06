@@ -20,6 +20,7 @@
         <link rel="stylesheet" href="{{asset('assets/css/normalize.css')}}">
         <link rel="stylesheet" href="{{asset('assets/css/main.css')}}">
         <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400">
         <script src="{{asset('assets/js/vendor/modernizr-2.6.2.min.js')}}"></script>
     </head>
     <body>
