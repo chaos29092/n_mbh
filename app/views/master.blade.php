@@ -44,7 +44,6 @@
                 <a href="{{url('about')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.aboutUs')}}</button></a>
                 <a href="{{url('customer_visit')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.customerVisit')}}</button></a>
                 <a href="{{url('service')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.service')}}</button></a>
-                <a href="{{url('solution')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.merchants')}}</button></a>
                 <a href="{{url('contact')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.contact')}}</button></a>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
@@ -61,8 +60,6 @@
         	          <li><a href="{{url('products/all')}}">{{Lang::get('page.products')}}</a></li>
                       <li>|</li>
                       <li><a href="{{url('about')}}">{{Lang::get('page.aboutUs')}}</a></li>
-                      <li>|</li>
-                      <li><a href="{{url('solution')}}">{{Lang::get('page.merchants')}}</a></li>
                       <li>|</li>
                       <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
                 </ul>
