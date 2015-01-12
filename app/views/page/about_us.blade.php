@@ -9,9 +9,7 @@ nucleon - {{Lang::get('page.aboutUs')}}
 @stop
 
 @section('topimg')
-    <div id="topimg">
-        <img src="{{asset('img/page/about.jpg')}}" alt=""/>
-    </div>
+
 @stop
 
 @section('content_page')
@@ -33,7 +31,7 @@ nucleon - {{Lang::get('page.aboutUs')}}
               </a>
               <div class="media-body">
                 <h4 class="media-heading">{{Lang::get('page.factoryTour')}}</h4>
-                {{Lang::get('page.ff1')}}
+                {{Lang::get('page.nucleonCompany')}}
               </div>
             </div>
         </div>

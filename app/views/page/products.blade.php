@@ -9,9 +9,7 @@
 @stop
 
 @section('topimg')
-    <div id="topimg">
-        <img src="{{asset('img/page/product.jpg')}}" class="img-responsive" alt=""/>
-    </div>
+
 @stop
 
 @section('content_page')
@@ -30,7 +28,6 @@
 
         {{--产品列表--}}
         @if($category == 'all')
-            <h4>{{Lang::get('page.smbh')}}</h4>
             <div class="row">
                 <div class="col-xs-6 col-md-4">
                     <a href="{{url('product/small/150t')}}" class="thumbnail">
@@ -41,11 +38,6 @@
                         </div>
                     </a>
                 </div>
-            </div>
-
-            <hr/>
-            <h4>{{Lang::get('page.mmbh')}}</h4>
-            <div class="row">
                 <div class="col-xs-6 col-md-4">
                     <a href="{{url('product/medium/500t')}}" class="thumbnail">
                         <img src="{{asset('img/products/mbh_500t_thumb.jpg')}}" alt="{{Lang::get('page.mbh')}} 300T">
@@ -55,11 +47,6 @@
                         </div>
                     </a>
                 </div>
-            </div>
-            <hr/>
-
-            <h4>{{Lang::get('page.bmbh')}}</h4>
-            <div class="row">
                 <div class="col-xs-6 col-md-4">
                     <a href="{{url('product/big/1000t')}}" class="thumbnail">
                         <img src="{{asset('img/products/mbh_1000t_thumb.jpg')}}" alt="{{Lang::get('page.mbh')}} 800T">

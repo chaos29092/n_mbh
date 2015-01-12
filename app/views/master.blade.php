@@ -42,8 +42,11 @@
                 <a href="{{url('/')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.home')}}</button></a>
                 <a href="{{url('products/all')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.products')}}</button></a>
                 <a href="{{url('about')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.aboutUs')}}</button></a>
-                <a href="{{url('customer_visit')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.customerVisit')}}</button></a>
-                <a href="{{url('service')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.service')}}</button></a>
+                <a href="{{url('factory_views')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.factoryViews')}}</button></a>
+                <a href="{{url('equipment')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.productionEquipment')}}</button></a>
+                <a href="{{url('researchteam')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.researchteam')}}</button></a>
+                <a href="{{url('exchange')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.exchange')}}</button></a>
+                <a href="{{url('culture')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.culture')}}</button></a>
                 <a href="{{url('contact')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.contact')}}</button></a>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
@@ -63,7 +66,7 @@
                       <li>|</li>
                       <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
                 </ul>
-                <p class="text-center">Copyright © Zhengzhou Hanvy Machinery And Equipment Co., Ltd.</p>
+                <p class="text-center">Copyright © Henan Nucleon Mobile Boat Hoist Co., Ltd.</p>
         	</div>
 
 

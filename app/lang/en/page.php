@@ -37,7 +37,7 @@ return array(
     'bmbh' => 'Large range',
 
 //about us
-    'nucleonCompany' => 'NUCLEON (Henan) Mobile Boat Hoist Co., Ltd',
+    'nucleonCompany' => 'Henan Nucleon Mobile Boat Hoist Co., Ltd',
     'about_p1' => 'We are specialized in manufacturing mobile boat hoist，and we are
 located in Henan Crane Industrial Park, which has good raputition by "Town of China Crane" 
 which is in Changyuan County of China.Our capital is USD4000,000，and land area is 320,000
@@ -65,7 +65,6 @@ advanced in China',
 modern office building, multi-functional hall and staff apartment, which is a modern 
 enterprise integrated in research,manufacture and sales.',
     'factoryTour' => 'factory tour',
-    'ff1' => 'NUCLEON（Henan）Mobile Boat Hoist Co.,Ltd',
     'f1' => 'Lion with fish tail',
     'f2' => 'Full image of NUCLEON administration building and east gate',
     'f3' => 'Full image of factory area',
