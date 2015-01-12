@@ -58,7 +58,7 @@
 
         	<div class="container">
         	    <ul class="list-inline text-center">
-        	          <li><a href="/">{{Lang::get('page.home')}}</a></li>
+        	          <li><a href="{{url('/')}}">{{Lang::get('page.home')}}</a></li>
         	          <li>|</li>
         	          <li><a href="{{url('products/all')}}">{{Lang::get('page.products')}}</a></li>
                       <li>|</li>
@@ -75,6 +75,7 @@
         <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
         <script src="{{asset('assets/js/plugins.js')}}"></script>
         <script src="{{asset('assets/js/main.js')}}"></script>
+        <script src="{{asset('assets/js/vendor/lightbox.min.js')}}"></script>
         {{--google analytics en--}}
         {{--<script>--}}
             {{--(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){--}}

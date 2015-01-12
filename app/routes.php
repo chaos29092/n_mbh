@@ -14,10 +14,8 @@
 Route::get('/', 'PageController@index');
 Route::get('about', 'PageController@about');
 Route::get('contact', 'PageController@contact');
-Route::get('customer_visit', 'PageController@customerVisit');
+Route::get('factory_views', 'PageController@factoryViews');
 Route::get('service', 'PageController@service');
-Route::get('solution', 'PageController@solution');
-Route::get('tour', 'PageController@tour');
 Route::get('ok', 'PageController@ok');
 
 

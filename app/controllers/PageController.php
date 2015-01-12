@@ -17,24 +17,14 @@ class PageController extends BaseController {
         return View::make('page.contact');
     }
 
-    public function customerVisit()
+    public function factoryViews()
     {
-        return View::make('page.customer_visit');
+        return View::make('page.factory_views');
     }
 
     public function service()
     {
         return View::make('page.service');
-    }
-
-    public function solution()
-    {
-        return View::make('page.solution');
-    }
-
-    public function tour()
-    {
-        return View::make('page.tour');
     }
 
     public function ok()
