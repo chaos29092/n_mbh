@@ -15,6 +15,7 @@ Route::get('/', 'PageController@index');
 Route::get('about', 'PageController@about');
 Route::get('contact', 'PageController@contact');
 Route::get('factory_views', 'PageController@factoryViews');
+Route::get('production_equipment', 'PageController@productionEquipment');
 Route::get('service', 'PageController@service');
 Route::get('ok', 'PageController@ok');
 

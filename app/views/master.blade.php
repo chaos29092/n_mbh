@@ -43,7 +43,7 @@
                 <a href="{{url('products/all')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.products')}}</button></a>
                 <a href="{{url('about')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.aboutUs')}}</button></a>
                 <a href="{{url('factory_views')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.factoryViews')}}</button></a>
-                <a href="{{url('equipment')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.productionEquipment')}}</button></a>
+                <a href="{{url('production_equipment')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.productionEquipment')}}</button></a>
                 <a href="{{url('researchteam')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.researchteam')}}</button></a>
                 <a href="{{url('exchange')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.exchange')}}</button></a>
                 <a href="{{url('culture')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.culture')}}</button></a>
