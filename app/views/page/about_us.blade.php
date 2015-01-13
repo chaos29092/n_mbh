@@ -30,88 +30,10 @@ nucleon - {{Lang::get('page.aboutUs')}}
                 <img src="{{asset('img/factory_1.jpg')}}" alt="factory">
               </a>
               <div class="media-body">
-                <h4 class="media-heading">{{Lang::get('page.factoryTour')}}</h4>
+                <h4 class="media-heading"><a href="{{url('factory_views')}}">{{Lang::get('page.factoryTour')}}</a></h4>
                 {{Lang::get('page.nucleonCompany')}}
               </div>
             </div>
-        </div>
-        <div class="row">
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f1.jpg')}}" alt="{{Lang::get('page.f1')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f1')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f2.jpg')}}" alt="{{Lang::get('page.f2')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f2')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f3.jpg')}}" alt="{{Lang::get('page.f3')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f3')}}</p>
-                      </div>
-                    </a>
-                  </div>
-        </div>
-        <div class="row">
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f4.jpg')}}" alt="{{Lang::get('page.f4')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f4')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f5.jpg')}}" alt="{{Lang::get('page.f5')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f5')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f6.jpg')}}" alt="{{Lang::get('page.f6')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f6')}}</p>
-                      </div>
-                    </a>
-                  </div>
-        </div>
-        <div class="row">
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f7.jpg')}}" alt="{{Lang::get('page.f7')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f7')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f8.jpg')}}" alt="{{Lang::get('page.f8')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f8')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-4">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/f9.jpg')}}" alt="{{Lang::get('page.f9')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.f9')}}</p>
-                      </div>
-                    </a>
-                  </div>
         </div>
         <hr/>
 
@@ -122,7 +44,7 @@ nucleon - {{Lang::get('page.aboutUs')}}
                 <img src="{{asset('img/research.jpg')}}" alt="research team">
               </a>
               <div class="media-body">
-                <h4 class="media-heading">{{Lang::get('page.researchteam')}}</h4>
+                <h4 class="media-heading"><a href="{{url('rd')}}">{{Lang::get('page.researchteam')}}</a></h4>
                 {{Lang::get('page.y1')}}
               </div>
             </div>
@@ -139,46 +61,12 @@ nucleon - {{Lang::get('page.aboutUs')}}
                 <img src="{{asset('img/research.jpg')}}" alt="research team">
               </a>
               <div class="media-body">
-                <h4 class="media-heading">{{Lang::get('page.productionEquipment')}}</h4>
+                <h4 class="media-heading"><a href="{{url('production_equipment')}}">{{Lang::get('page.productionEquipment')}}</a></h4>
                 {{Lang::get('page.y1')}}
               </div>
             </div>
         </div>
         <p>{{Lang::get('page.pe')}}</p>
-        <div class="row">
-                  <div class="col-xs-6 col-md-3">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/pe_1.jpg')}}" alt="{{Lang::get('page.pe_1')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.pe_1')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/pe_2.jpg')}}" alt="{{Lang::get('page.pe_2')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.pe_2')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/pe_3.jpg')}}" alt="{{Lang::get('page.pe_3')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.pe_3')}}</p>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-6 col-md-3">
-                    <a class="thumbnail">
-                      <img src="{{asset('img/about/pe_4.jpg')}}" alt="{{Lang::get('page.pe_4')}}">
-                      <div class="caption">
-                        <p class="text-center">{{Lang::get('page.pe_4')}}</p>
-                      </div>
-                    </a>
-                  </div>
-        </div>
     </div>
 @stop
 
