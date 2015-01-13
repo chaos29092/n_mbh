@@ -27,6 +27,21 @@ class PageController extends BaseController {
         return View::make('page.production_equipment');
     }
 
+    public function rd()
+    {
+        return View::make('page.rd');
+    }
+
+    public function exchange()
+    {
+        return View::make('page.exchange');
+    }
+
+    public function culture()
+    {
+        return View::make('page.culture');
+    }
+
     public function service()
     {
         return View::make('page.service');
