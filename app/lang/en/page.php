@@ -7,7 +7,6 @@ return array(
     'aboutUs' => 'About NUCLEON',
     'customerVisit' => 'Customer Visit',
     'service' => 'Service',
-    'merchants' => 'Agent Wanted',
     'contact' => 'Contact',
 
 //column
@@ -75,7 +74,7 @@ enterprise integrated in research,manufacture and sales.',
     'f8' => 'Training center',
     'f9' => 'Corner of factory',
 
-    'researchteam' => 'research team',
+    'researchteam' => 'research',
     'y1' => 'Operating brand of NUCLEON，not only brand spread, but also brand management, 
 creat and maintain',
     'r1' => 'Our company was established in professional and technical backbone as the main 
@@ -98,7 +97,7 @@ low building height , HD of European type of electric single beam crane and othe
 manufacturing shows our research and development ability has reached the leading domestic 
 level.',
 
-    'productionEquipment' => 'manufacture equipment',
+    'productionEquipment' => 'Equipment',
     'pe' => 'Our company is equiped advanced facilities in the industry, has the largest 
 national 100 ton test platform , testing center and matching machining equipment, such as 
 CNC surface drilling machine, CNC flame plasma cutting machine, CNC lathe, NC boring, 
@@ -218,9 +217,9 @@ FEM1001/98。',
     'email_p3' => 'If your request is urgent, please call tel: +86 139 3821 6025.',
 
 //1.12 add content
-    'factoryViews' => 'Factory Views',
-    'exchange' => 'Cooperation and Exchange',
-    'culture' => 'Enterprise Culture',
+    'factoryViews' => 'Factory',
+    'exchange' => 'Cooperation',
+    'culture' => 'Culture',
 //factory's photo
     'fv_1' => 'overall view',
     'fv_2' => 'factory corner',
