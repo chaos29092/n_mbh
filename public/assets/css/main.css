@@ -782,9 +782,9 @@ hr.blueline {
     padding-left: 50px;
 }
 
-.service-image-left > center > img,.service-image-right > center > img{
-    max-height: 155px;
-}
+/*.service-image-left > center > img,.service-image-right > center > img{*/
+    /*max-height: 155px;*/
+/*}*/
 
 
 #content-page .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
@@ -819,7 +819,7 @@ hr.blueline {
 /*light box*/
 /* Preload images */
 body:after {
-    content: url(../../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
+    content: url(../../img/close.png) url(../../img/loading.gif) url(../../img/prev.png) url(../../img/next.png);
     display: none;
 }
 

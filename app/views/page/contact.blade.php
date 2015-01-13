@@ -70,7 +70,7 @@ nucleon - {{Lang::get('page.contact')}}
                         </div>
 
                         <div class="form-group">
-                            <div class="col-md-offset-1 col-sm-10">
+                            <div class="col-md-offset-2 col-sm-10">
                                 {{ Form::submit(Lang::get('page.send'), array('class' => 'btn btn-primary')) }}
                             </div>
                         </div>
