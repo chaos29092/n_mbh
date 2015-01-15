@@ -19,7 +19,7 @@ nucleon - {{Lang::get('page.contact')}}
         <h4>{{Lang::get('page.contact')}}</h4>
         <hr/>
         <p><strong>{{Lang::get('page.nucleonCompany')}}</strong></p>
-        <p>{{Lang::get('page.mobile')}}: 0086 18603710680</p>
+        <p>{{Lang::get('page.mobile')}}: 0086 186 0386 0660</p>
         <p>{{Lang::get('page.emailaddress')}}: <a href="mailto:info@nucleon-mbh.com">info@nucleon-mbh.com</a></p>
         <p>{{Lang::get('page.address')}}: {{Lang::get('page.ourAddress')}}</p>
 

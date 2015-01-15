@@ -74,7 +74,7 @@ enterprise integrated in research,manufacture and sales.',
     'f8' => 'Training center',
     'f9' => 'Corner of factory',
 
-    'researchteam' => 'research',
+    'researchteam' => 'R & D',
     'y1' => 'Operating brand of NUCLEON，not only brand spread, but also brand management, 
 creat and maintain',
     'r1' => 'Our company was established in professional and technical backbone as the main 
@@ -272,6 +272,14 @@ FEM1001/98。',
     'ex_3' => 'Demag visit 2',
     'ex_4' => 'Russian customer',
     'ex_5' => 'Indian customers',
+    'ex_6' => 'Customer Visit',
+    'ex_7' => 'Customer Visit',
+    'ex_8' => 'Customer Visit',
+    'ex_9' => 'Customer Visit',
+    'ex_10' => 'Customer Visit',
+    'ex_11' => 'Customer Visit',
+    'ex_12' => 'Customer Visit',
+    'ex_13' => 'Customer Visit',
 
     //企业文化Corporate Culture
     'cul_1' => 'The annual summary commendation congress',

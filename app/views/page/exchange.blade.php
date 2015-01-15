@@ -50,9 +50,62 @@
                     <img src="{{asset('img/ex/ex_5_thum.jpg')}}" alt="{{Lang::get('page.ex_5')}}">
                 </a>
             </div>
+            <div class="col-xs-6 col-md-4">
+                <a href="{{asset('img/ex/ex_6.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                   data-title="{{Lang::get('page.ex_6')}}">
+                    <img src="{{asset('img/ex/ex_6_thum.jpg')}}" alt="{{Lang::get('page.ex_6')}}">
+                </a>
+            </div>
         </div>
-        <hr/>
-    </div>
+        <div class="row">
+            <div class="col-xs-6 col-md-4">
+                <a href="{{asset('img/ex/ex_7.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                   data-title="{{Lang::get('page.ex_7')}}">
+                    <img src="{{asset('img/ex/ex_7_thum.jpg')}}" alt="{{Lang::get('page.ex_7')}}">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-4">
+                <a href="{{asset('img/ex/ex_8.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                   data-title="{{Lang::get('page.ex_8')}}">
+                    <img src="{{asset('img/ex/ex_8_thum.jpg')}}" alt="{{Lang::get('page.ex_8')}}">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-4">
+                <a href="{{asset('img/ex/ex_9.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                   data-title="{{Lang::get('page.ex_9')}}">
+                    <img src="{{asset('img/ex/ex_9_thum.jpg')}}" alt="{{Lang::get('page.ex_9')}}">
+                </a>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{asset('img/ex/ex_10.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                       data-title="{{Lang::get('page.ex_10')}}">
+                        <img src="{{asset('img/ex/ex_10_thum.jpg')}}" alt="{{Lang::get('page.ex_10')}}">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{asset('img/ex/ex_11.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                       data-title="{{Lang::get('page.ex_11')}}">
+                        <img src="{{asset('img/ex/ex_11_thum.jpg')}}" alt="{{Lang::get('page.ex_11')}}">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{asset('img/ex/ex_12.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                       data-title="{{Lang::get('page.ex_12')}}">
+                        <img src="{{asset('img/ex/ex_12_thum.jpg')}}" alt="{{Lang::get('page.ex_12')}}">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{asset('img/ex/ex_13.jpg')}}" class="thumbnail" data-lightbox="image-1"
+                       data-title="{{Lang::get('page.ex_13')}}">
+                        <img src="{{asset('img/ex/ex_13_thum.jpg')}}" alt="{{Lang::get('page.ex_13')}}">
+                    </a>
+                </div>
+            </div>
+            <hr/>
+        </div>
 @stop
 
 
