@@ -127,7 +127,7 @@ return array(
     'emailaddress' => '邮件地址',
     'mobile' => '联系电话',
     'address' => '联系地址',
-    'ourAddress' => '河南郑州，长椿路11号，大学科技园，Y06栋，邮编：450001',
+    'ourAddress' => '河南省，长垣县，起重机械工业园区。',
 
 //email
     'email_p1' => '我们已经接到您的信息！',
