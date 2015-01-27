@@ -24,7 +24,6 @@ nucleon - {{Lang::get('page.rmg')}}
     <p>{{Lang::get('page.rmg_sum_1')}}</p>
     <p>{{Lang::get('page.rmg_sum_2')}}</p>
 
-    <h3>{{Lang::get('page.mainTechnicalFeatures')}}</h3>
 
 
 
