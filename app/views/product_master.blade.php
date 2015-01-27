@@ -75,9 +75,9 @@
                         <div class="list-group">
                             <a href="{{url('products/all')}}"
                                class="list-group-item">{{Lang::get('page.allProduct')}}</a>
-                            <a href="{{url('products/small')}}" class="list-group-item">{{Lang::get('page.smbh')}}</a>
-                            <a href="{{url('products/medium')}}" class="list-group-item">{{Lang::get('page.mmbh')}}</a>
-                            <a href="{{url('products/big')}}" class="list-group-item">{{Lang::get('page.bmbh')}}</a>
+                            <a href="{{url('products/mbh')}}" class="list-group-item">{{Lang::get('page.mbh')}}</a>
+                            <a href="{{url('products/rmg')}}" class="list-group-item">{{Lang::get('page.rmg')}}</a>
+                            <a href="{{url('products/rtg')}}" class="list-group-item">{{Lang::get('page.rtg')}}</a>
                         </div>
 
                         <div class="well">

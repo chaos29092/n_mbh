@@ -27,6 +27,8 @@ Route::get('products/{category}', 'PageController@products');
 Route::get('product/small/{model}', 'PageController@productSmall');
 Route::get('product/medium/{model}', 'PageController@productMedium');
 Route::get('product/big/{model}', 'PageController@productbig');
+Route::get('product/rmg', 'PageController@productRmg');
+Route::get('product/rtg', 'PageController@productRtg');
 
 //contact
 Route::post('mailPost', function()

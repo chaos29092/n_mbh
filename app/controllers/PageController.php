@@ -75,4 +75,14 @@ class PageController extends BaseController {
         $data['model'] = $model ;
         return View::make('page.product_big', $data);
     }
+
+    public function productRmg()
+    {
+        return View::make('page.product_rmg');
+    }
+
+    public function productRtg()
+    {
+        return View::make('page.product_rtg');
+    }
 }
