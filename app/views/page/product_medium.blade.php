@@ -13,7 +13,7 @@ nucleon - {{Lang::get('page.mbh')}} 200t ~ 500t
 @stop
 
 @section('product_dec')
-    <div class="product-title">{{Lang::get('page.mbh')}} 200t ~ 500t</div>
+    <div class="product-title">{{Lang::get('page.mbh')}} 200t ~ 500t</div> <br/>
     <div class="product-desc">
     </div>
     <div class="product-desc">{{Lang::get('page.pdec_1')}} 200t ~ 500t {{Lang::get('page.pdec_2')}}</div> <br/>

@@ -13,7 +13,7 @@ nucleon - {{Lang::get('page.rmg')}}
 @stop
 
 @section('product_dec')
-    <div class="product-title">{{Lang::get('page.rmg')}}</div>
+    <div class="product-title">{{Lang::get('page.rmg')}}</div> <br/>
     <div class="product-desc"></div>
     <div class="product-desc">{{Lang::get('page.rmg_p1')}}</div> <br/>
 
@@ -24,7 +24,68 @@ nucleon - {{Lang::get('page.rmg')}}
     <p>{{Lang::get('page.rmg_sum_1')}}</p>
     <p>{{Lang::get('page.rmg_sum_2')}}</p>
 
-
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_1.jpg')}}" alt=""/>
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_2.jpg')}}"  alt="...">
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_3.jpg')}}"  alt="...">
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_4.jpg')}}" alt=""/>
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_5.jpg')}}"  alt="...">
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rmg_6.jpg')}}"  alt="...">
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 @stop

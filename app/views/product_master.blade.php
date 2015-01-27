@@ -21,7 +21,6 @@
                             <ol class="breadcrumb">
                                 <li><a href="/">{{Lang::get('page.home')}}</a></li>
                                 <li><a href="{{url('products/all')}}">{{Lang::get('page.allProduct')}}</a></li>
-                                <li class="active">{{Lang::get('page.mbh')}} {{$model}}</li>
                             </ol>
                             <hr id="breadcrumb"/>
                             <div class="product col-md-5 service-image-left">
