@@ -298,4 +298,52 @@ FEM1001/98。',
     'cul_14' => 'fitness center',
     'cul_15' => 'staff library',
 
+    //产品列表页
+    'rmg' => 'rail mounted container gantry crane (RMG)',
+    'rtg' => 'Rubber-tyre container gantry crane (RTG)',
+
+    //rmg简介
+    'rmg_p1' => 'Rail mounted container gantry crane is widely used for handling,loading and stack of container,
+in container rail transfer points and large scale container storage and transport field in port. According
+to containers storage and transport process flows and arrangement of handing vehicles(container trucks
+or railway vehicles), RMG’s portal frame can be divided into three types,named non-cantilever type,
+single-cantilever type and double-cantilever type.At present, our products have formed standardization
+series.',
+    'rmg_sum_1' => 'Rail mounted container gantry crane(RMG) is regarded as high operation efficiency, high space
+utilization, high automation and reliability, easy operation, safety and environmental protection, long
+service life, low maintenance cost. Except the need of laying track in container stack, RMG has all
+advantage over rubber tire container gantry crane in other aspects, that are accuracy control for stack
+height and position, stabilization performance and steel structure stress state.',
+    'rmg_sum_2' => 'RMG hoisting mechanism is equipped with handling operation sling suitable for  ISO 20’/40’ international standard containers and loaded vans. With machinery or electrical stabilizer to reduce swing of sling. The cabin is usually hung under the trolley and travel together. The whole crane use PLC control system. The crane traveling mechanism also can be installed deviation rectifier according to span change.',
+    'rmg_img_1' => 'L type crane travelling',
+    'rmg_img_2' => 'Rail clip',
+    'rmg_img_3' => 'High speed frequency conversion cable drum',
+    'rmg_img_4' => 'Anti-swinging system',
+    'rmg_img_5' => 'Chain plate type power supply device',
+    'rmg_img_6' => 'Cabin',
+
+    //产品表格
+    'rmg_t_1' => 'Main technical data',
+    'rmg_t_2' => 'Rate capacity Q(below hook)(t)',
+    'rmg_t_3' => 'work level',
+    'rmg_t_4' => 'lift height H(m)',
+    'rmg_t_5' => 'Container stacking type',
+    'rmg_t_6' => 'Height',
+    'rmg_t_7' => 'Stack 3 over 4 to Stack 6 over 7',
+    'rmg_t_8' => 'lift speed(m/min)',
+    'rmg_t_9' => 'Full load',
+    'rmg_t_10' => 'Empty load',
+    'rmg_t_11' => 'Trolley travel speed(m/min)',
+    'rmg_t_12' => 'Container type',
+    'rmg_t_13' => 'Hook rotation angle',
+    'rmg_t_14' => 'Crane travel speed(m/min)',
+    'rmg_t_15' => 'Rail distance S(m)',
+    'rmg_t_16' => 'Base distance  B(m)',
+    'rmg_t_17' => 'Wheel No.',
+    'rmg_t_18' => 'Rail type recommended',
+    'rmg_t_19' => 'Max. wheel presure(kN)',
+    'rmg_t_20' => 'Total power rate（KW）',
+    'rmg_t_21' => 'Power',
+    'rmg_t_22' => '3 phase，380V，50Hz',
+
 );

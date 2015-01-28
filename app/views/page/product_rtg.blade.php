@@ -1,21 +1,21 @@
 @extends('product_master')
 
 @section('title')
-nucleon - {{Lang::get('page.rmg')}}
+nucleon - {{Lang::get('page.rtg')}}
 @stop
 
 @section('description')
-nucleon - {{Lang::get('page.rmg')}}
+nucleon - {{Lang::get('page.rtg')}}
 @stop
 
 @section('productImg')
-{{asset('img/products/rmg.jpg')}}
+{{asset('img/products/rtg.jpg')}}
 @stop
 
 @section('product_dec')
-    <div class="product-title">{{Lang::get('page.rmg')}}</div> <br/>
+    <div class="product-title">{{Lang::get('page.rtg')}}</div> <br/>
     <div class="product-desc"></div>
-    <div class="product-desc">{{Lang::get('page.rmg_p1')}}</div> <br/>
+    <div class="product-desc">{{Lang::get('page.rtg_p1')}}</div> <br/>
 
 @stop
 
