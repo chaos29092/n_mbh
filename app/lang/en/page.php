@@ -346,4 +346,33 @@ height and position, stabilization performance and steel structure stress state.
     'rmg_t_21' => 'Power',
     'rmg_t_22' => '3 phase，380V，50Hz',
 
+    //rtg简介
+    'rtg_p1' => 'Rubber-tyre container gantry crane (RTG), which is our company\'s main product, is apply to use in the front yard of container terminal and also use in the back yard of container transfer station. At present we have developed the products to standardized series products.',
+    'rtg_sum_1' => 'Rubber-tyre container gantry crane (RTG) has advantages of reasonable structure, convenient operation, quick action, high reliability, low failure rate, which can realize automation control, ant it is the first selection of port container yard handling machine. Diesel engine unit with AC current is applied as the power supply device which can work in low temperature with the heater system of oil circuit and hydraulic system. Electrical system adopts PLC frequency control to operate each agency. Lifting mechanism is equipped with suitable speader for handling ISO20 \'/ 40\' international standard container (and &heavy container). In order to reduce the swing of the spreader, it is equipped with mechanical anti-swinging device. In order to convert the worksite, tyre travelling mechanism is equipped with 0 Ў~ 90 Ў Angle steering mechanism, which can realize two direction travelling in a container yard.',
+    'rtg_sum_2' => 'For safety facilities, the machine is equipped with overload protection, diesel engine overspeed protection, water higher temperature indicator and lower oil pressure indicator devices, and wind speed indicator, typhoon anchor device, emergency stop button and each mechanism limit switch and indicator, etc.',
+
+    //rtg表格
+    'rtg_t_1' => 'Load capacity (under hook) (hons)',
+    'rtg_t_2' => 'working class',
+    'rtg_t_3' => ' lifting height (m)',
+    'rtg_t_4' => 'stack height',
+    'rtg_t_5' => 'stack 3 pass 4~stack 5 pass 6',
+    'rtg_t_6' => 'Span (numbers of containers in span)',
+    'rtg_t_7' => '（4columns container+1lane)',
+    'rtg_t_8' => '（5columns container+1lane)',
+    'rtg_t_9' => '（6columns container+1lane)',
+    'rtg_t_10' => '（8columns container+1lane)',
+    'rtg_t_11' => '（base distance)Bx（wheel distance)A(m)',
+    'rtg_t_12' => 'wheels quantity',
+    'rtg_t_13' => 'container specification',
+    'rtg_t_14' => 'hook rotation angle',
+    'rtg_t_15' => 'lifting speed(m/min)',
+    'rtg_t_16' => 'full load',
+    'rtg_t_17' => 'empty load',
+    'rtg_t_18' => 'trolley speed(m/min)',
+    'rtg_t_19' => 'crane speed(m/min)',
+    'rtg_t_20' => 'diesel engine total power (kW)',
+    'rtg_t_21' => 'electric generator capacity (kVA)',
+    'rtg_t_22' => 'max.wheel presure(kN)',
+
 );
