@@ -16,10 +16,10 @@ Thank you for your message
 
 @section('content_page')
     <div>
-        <h2 class="text-center">{{Lang::get('email_p1')}}</h2>
+        <h2 class="text-center">{{Lang::get('page.email_p1')}}</h2>
 
-        <blockquote>{{Lang::get('email_p2')}}<br/><br/>
-        {{Lang::get('email_p3')}}
+        <blockquote>{{Lang::get('page.email_p2')}}<br/><br/>
+        {{Lang::get('page.email_p3')}}
         </blockquote>
 
         <hr/>

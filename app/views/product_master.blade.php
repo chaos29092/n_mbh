@@ -143,7 +143,7 @@
                             <div class="form-group">
                                 {{ Form::label('subject', Lang::get('page.name'), array('class' => 'col-md-2 control-label')) }}
                                 <div class="col-md-6">
-                                    <input required placeholder="your name" class="form-control" name="subject"
+                                    <input placeholder="your name" class="form-control" name="subject"
                                            type="text" id="subject">
                                 </div>
                             </div>
