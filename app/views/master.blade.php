@@ -88,3 +88,5 @@
         {{--</script>--}}
     </body>
 </html>
+{{--商务通--}}
+<script language="javascript" src="http://lwt.zoosnet.net/JS/LsJS.aspx?siteid=LWT95141017&float=1&lng=cn"></script>
