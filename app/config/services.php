@@ -15,8 +15,8 @@ return array(
 	*/
 
 	'mailgun' => array(
-		'domain' => '',
-		'secret' => '',
+		'domain' => 'email1.nucleon-mbh.com',
+		'secret' => 'key-33963e96a62f9d2d75a484208c68a363',
 	),
 
 	'mandrill' => array(

@@ -15,7 +15,7 @@ return array(
     |
     */
 
-    'driver' => 'smtp',
+    'driver' => 'mailgun',
 
     /*
     |--------------------------------------------------------------------------
@@ -54,7 +54,7 @@ return array(
     |
     */
 
-    'from' => array('address' => 'info@youyoou.com', 'name' => 'chaos'),
+    'from' => array('address' => 'info@email1.nucleon-mbh.com', 'name' => 'chaos'),
 
     /*
     |--------------------------------------------------------------------------
