@@ -2,10 +2,10 @@
 
 return array(
 //Menú 
-    'home' => 'Página Inicial',
+    'home' => 'Inicial',
     'products' => 'Producto',
     'aboutUs' => 'Sobre Nosotros',
-    'customerVisit' => 'Vista de clientes ',
+    'customerVisit' => 'Visita',
     'service' => 'Servicio',
     'merchants' => 'Comerciantes',
     'contact' => 'Contáctenos',
@@ -49,13 +49,13 @@ return array(
     'f8' => 'Centro de capacitación de personal con instalaciones avanzadas ',
     'f9' => 'Una parte de fábrica ',
 
-    'researchteam' => 'Equipo de desarrollo',
+    'researchteam' => 'R & D',
     'y1' => 'La gestión de marco de Nucleon no sólo se refierre la propagación de marca sino también la gestión , creación y mantenimiento de marca',
     'r1' => 'La empresa estableció el laboratorio de I + D con el cuerpo principal como la columna vertebral de técnica, se aplica el software de diseño de alta tecnología, logros técnicos de alta tecnología, y desarrolla los productos que satisfacen las necesidades de mercado de desarrollo, con el fin de  satisfacer las necesidades de segmentación de mercado, y trata de abrir nuevos caminos en la protección del medio ambiente, la seguridad, la inteligencia.',
     'r2' => 'Oficina de ingenierio jefe, departamento de diseño eléctrico, departamento de diseño  ligero, departamento de diseño de puerte y puerta y departamento de tecnología.El equipo que está compuesto por los técnicos superioes, es la energía principal en desarrollo de producto y que satisfacen las necesidades de los usuarios individuales, tiene el objeto que se desarrollan los productos con las tecnologías avanzadas internacionales.',
     'r3' => 'Al inicio de establecimiento, la empresa está comprometida con la fabricación de buena calidad,, la calidad y función de polipasto eléctrico de cuerda de acero de HC100 t que se investiga y desarrolla independientemente está el líder en la industria.  La fabricación de guía de doble vigas de polipasto eléctrico europea de STHS, guía de elevación eléctrica europea de NLX, guía de puerta universal de 320 t de tipo MG, guía de puerte universal de 320t de tipo QD, guía de puerte de vaciado de tipo YZ, guía de puerta de elevación de 400m, y el polipasto eléctrico europeo de Sti que se aplica en la menor altura, guía de viga única eléctrica europea de tipo HD se refiere que la capacidad de investigación y desarrollo y la capacidad de producción ha llegado al líder nivel en China.',
 
-    'productionEquipment' => 'Equipo de producción',
+    'productionEquipment' => 'Producción',
     'pe' => 'La empresa tiene las instalaciones avanzadas en la industria, tiene la plataforma de ensayo de polipasto de 100t, centro de inspección y los equipos de mecanizado , tal como la máquina de perforación de plano de control digital, máquina de corte por por plasma de llama de control digital, torno de control digital con todas las funciones, mandriladora de pantalla digital, y detector de fallas sin daño, etc. Los dispositivos avanzados sienta la base de productos de calidad alta.',
     'pe_1' => 'Línea de pintura automática de polipasto eléctrico de Beijing Polonus',
     'pe_2' => 'Torno de control digital con todas las funciones de tipo CY-K40 de Japonés',
@@ -130,9 +130,9 @@ return array(
     'email_p3' => 'Si el asunto es muy urgente, por favor llame al: +86 13938216025.',
 
 //1.12 Añadir contenido
-    'factoryViews' => 'Vista de fábrica',
-    'exchange' => 'Cooperación e intercambio',
-    'culture' => 'Cultura corporativa',
+    'factoryViews' => 'Fábrica',
+    'exchange' => 'Cooperación',
+    'culture' => 'Cultura',
 //Vista de fábrica
     'fv_1' => 'Parte de fábrica ',
     'fv_2' => 'Esquina de fábrica',

@@ -31,7 +31,7 @@
         <div id="top">
             <div class="container">
                 <a href="{{url('/')}}"><img id="logo" src="{{asset('img/logo.jpg')}}" alt="{{Lang::get('page.ff1')}}"/></a>
-                <p class="pull-right"><a href="http://nucleon-mbh.com">English</a>  |  <a href="http://ru.nucleon-mbh.com">Pусский</a>  |  <a href="http://cn.nucleon-mbh.com">中文</a></p>
+                <p class="pull-right"><a href="http://nucleon-mbh.com">English</a>  |  <a href="http://es.nucleon-mbh.com">Español</a>  | <a href="http://ru.nucleon-mbh.com">Pусский</a>  |  <a href="http://cn.nucleon-mbh.com">中文</a></p>
             </div>
         </div>
 
