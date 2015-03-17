@@ -58,6 +58,18 @@ nucleon - {{Lang::get('page.rtg')}}
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rtg_7.jpg')}}" alt=""/>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{asset('img/products/rtg_8.jpg')}}"  alt="...">
+            </div>
+        </div>
+    </div>
 
 
 @stop
