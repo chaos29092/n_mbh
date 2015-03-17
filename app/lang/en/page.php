@@ -1,6 +1,13 @@
 <?php
 
 return array(
+    //add message
+    'overseas_partner' => 'Overseas Partner',
+    'op_1' => 'I am delighted to report that during the first half of 2014 the establishment plan for Imperial Yachting LLC in Dubai has been successful in securing a number of regional dealership and agency agreements with some of the world’s premier boat and yacht builders with whom we are receiving the highest level of support and co-operation.',
+    'op_2' => 'In addition, encouraging discussions continue with Super Yacht Builders to obtain agreement to market their vessels in the MENA area.',
+    'op_3' => 'The Partners of Imperial Yachting LLC have combined 40 years global experience in business with many in the GCC the majority in the marine Industry in the United Kingdom, Spain and Middle East.',
+    'op_4' => 'As Boat and Yacht owners past and present we know first hand what is involved in owning and maintaining a yacht . We understand that every client is unique that is why Imperial Yachting provide every client a bespoke service.',
+
 //menu
     'home' => 'Home',
     'products' => 'Product',

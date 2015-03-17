@@ -20,6 +20,7 @@ Route::get('rd', 'PageController@rd');
 Route::get('exchange', 'PageController@exchange');
 Route::get('culture', 'PageController@culture');
 Route::get('service', 'PageController@service');
+Route::get('partner', 'PageController@partner');
 Route::get('ok', 'PageController@ok');
 
 

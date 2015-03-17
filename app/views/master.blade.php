@@ -65,6 +65,8 @@
                       <li><a href="{{url('about')}}">{{Lang::get('page.aboutUs')}}</a></li>
                       <li>|</li>
                       <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
+                      <li>|</li>
+                      <li><a href="{{url('partner')}}">{{Lang::get('page.overseas_partner')}}</a></li>
                 </ul>
                 <p class="text-center">Copyright © Henan Nucleon Mobile Boat Hoist Co., Ltd.</p>
         	</div>

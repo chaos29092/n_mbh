@@ -47,6 +47,11 @@ class PageController extends BaseController {
         return View::make('page.service');
     }
 
+    public function partner()
+    {
+        return View::make('page.partner');
+    }
+
     public function ok()
     {
         return View::make('page.ok');
