@@ -47,6 +47,7 @@
                 <a href="{{url('rd')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.researchteam')}}</button></a>
                 <a href="{{url('exchange')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.exchange')}}</button></a>
                 <a href="{{url('culture')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.culture')}}</button></a>
+                <a href="{{url('partner')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.overseas_partner')}}</button></a>
                 <a href="{{url('contact')}}"><button type="button" class="btn btn-sky text-uppercase btn-lg">{{Lang::get('page.contact')}}</button></a>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
