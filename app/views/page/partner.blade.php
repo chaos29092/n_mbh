@@ -23,6 +23,7 @@ nucleon - {{Lang::get('page.overseas_partner')}}
             <div class="media">
               <a class="media-left">
                 <img src="{{asset('img/imperial-yachting.jpg')}}" alt="imperial yachting">
+                <img src="{{asset('img/partner_1.jpg')}}" alt="imperial yachting">
               </a>
               <div class="media-body">
                 <h4 class="media-heading">Imperial Yachting LLC in Dubai</h4>
@@ -33,6 +34,21 @@ nucleon - {{Lang::get('page.overseas_partner')}}
         <p>{{Lang::get('page.op_2')}}</p>
         <p>{{Lang::get('page.op_3')}}</p>
         <p>{{Lang::get('page.op_4')}}</p>
+        <p>Peter N Divers;
+            Partner - Director Sales & Marketing  </p>
+        <p>Imperial Yachting LLC,
+            2 Al Murad Towers,
+            Al Barsha 1   </p>
+        <p>
+            PO Box 454392,
+            Dubai, UAE.
+        </p>
+        <p>
+            Email:    imperialyachting@gmail.com <br/>
+            Cell:      +971 556234522   <br/>
+            Office:   +971 4277 6525    <br/>
+            Web:    www.imperial-yachting.com
+        </p>
         <hr/>
 
     </div>
