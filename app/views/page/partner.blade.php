@@ -26,7 +26,7 @@ nucleon - {{Lang::get('page.overseas_partner')}}
                 <img src="{{asset('img/partner_1.jpg')}}" alt="imperial yachting">
               </a>
               <div class="media-body">
-                <h4 class="media-heading">Imperial Yachting LLC in Dubai</h4>
+                <h4 class="media-heading">Imperial Yachting LLC Dubai</h4>
                 {{Lang::get('page.op_1')}}
               </div>
             </div>
