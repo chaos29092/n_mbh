@@ -90,4 +90,24 @@ class PageController extends BaseController {
     {
         return View::make('page.product_rtg');
     }
+
+    public function productGc()
+    {
+        return View::make('page.product_gc');
+    }
+
+    public function productBc_1()
+    {
+        return View::make('page.product_bc_1');
+    }
+
+    public function productBc_2()
+    {
+        return View::make('page.product_bc_2');
+    }
+
+    public function productEh()
+    {
+        return View::make('page.product_eh');
+    }
 }

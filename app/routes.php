@@ -30,6 +30,10 @@ Route::get('product/medium/{model}', 'PageController@productMedium');
 Route::get('product/big/{model}', 'PageController@productbig');
 Route::get('product/rmg', 'PageController@productRmg');
 Route::get('product/rtg', 'PageController@productRtg');
+Route::get('product/gc', 'PageController@productGc');
+Route::get('product/bc_1', 'PageController@productBc_1');
+Route::get('product/bc_2', 'PageController@productBc_2');
+Route::get('product/eh', 'PageController@productEh');
 
 //contact
 Route::post('mailPost', function()

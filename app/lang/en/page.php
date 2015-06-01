@@ -382,4 +382,13 @@ height and position, stabilization performance and steel structure stress state.
     'rtg_t_21' => 'electric generator capacity (kVA)',
     'rtg_t_22' => 'max.wheel presure(kN)',
 
+    //电动葫芦
+    'eh' => 'Electric Hoist',
+
+    //门式起重机
+    'gc' => 'Gantry Crane',
+
+    //桥式起重机
+    'bc' => 'Bridge Crane',
+
 );

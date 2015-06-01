@@ -1,6 +1,13 @@
 <?php
 
 return array(
+    //add message
+    'overseas_partner' => '合作伙伴',
+    'op_1' => 'Imperial Yachting - Passionate about Yachting ',
+    'op_2' => 'We are delighted to report that during  2014 the establishment of Imperial Yachting LLC in Dubai United Arab Emirates has been successful in securing a number of regional GCC , AFRICA and Turkey dealership and agency agreements with some of the world’s premier boat , yacht and super yacht manufacturers along with some of the worlds leading Marine service and Supply companies both in the US and China with whom we are receiving the highest level of support and co-operation.',
+    'op_3' => 'The Partners of Imperial Yachting LLC have combined 40 years global experience in business with many in the GCC the majority in the marine Industry in the United Kingdom, Spain and Middle East. Imperial Yachting - Passionate about Yachting.',
+    'op_4' => 'Contact details.',
+
 //菜单
     'home' => '主页',
     'products' => '产品',
@@ -286,5 +293,15 @@ return array(
     'rtg_t_21' => '发电机容量',
     'rtg_t_22' => '最大轮压',
 
+    //电动葫芦
+    'eh' => '电动葫芦',
+
+    //门式起重机
+    'gc' => '门式起重机',
+
+    //桥式起重机
+    'bc' => '桥式起重机',
+    'bc_1' => '单梁桥式起重机',
+    'bc_2' => '双梁桥式起重机',
 
 );

@@ -59,6 +59,32 @@ nucleon - {{Lang::get('page.about_p4')}}
                     </a>
                   </div>
                 </div>
+                <div class="row">
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/gc')}}" class="thumbnail">
+                      <img src="{{asset('img/products/gc.jpg')}}" alt="{{Lang::get('page.gc')}}">
+                      <div class="caption">
+                        <h5 class="text-center">{{Lang::get('page.gc')}}</h5>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/bc')}}" class="thumbnail">
+                      <img src="{{asset('img/products/bc.jpg')}}" alt="{{Lang::get('page.bc')}}">
+                      <div class="caption">
+                        <h5 class="text-center">{{Lang::get('page.bc')}}</h5>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-xs-6 col-md-4">
+                    <a href="{{url('products/eh')}}" class="thumbnail">
+                      <img src="{{asset('img/products/eh.jpg')}}" alt="{{Lang::get('page.eh')}}">
+                      <div class="caption">
+                        <h5 class="text-center">{{Lang::get('page.eh')}}</h5>
+                      </div>
+                    </a>
+                  </div>
+                </div>
             </div>
 
             <br>

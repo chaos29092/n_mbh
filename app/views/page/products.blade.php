@@ -23,6 +23,12 @@
             <h4>{{Lang::get('page.rmg')}}</h4>
         @elseif($category == 'rtg')
             <h4>{{Lang::get('page.rtg')}}</h4>
+        @elseif($category == 'gc')
+            <h4>{{Lang::get('page.gc')}}</h4>
+        @elseif($category == 'bc')
+            <h4>{{Lang::get('page.bc')}}</h4>
+        @elseif($category == 'eh')
+            <h4>{{Lang::get('page.eh')}}</h4>
         @endif
         <hr/>
 
@@ -83,6 +89,51 @@
                 </div>
             </div>
             <hr/>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/gc')}}" class="thumbnail">
+                        <img src="{{asset('img/products/gc_thum.jpg')}}" alt="{{Lang::get('page.gc')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.gc')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/bc_1')}}" class="thumbnail">
+                        <img src="{{asset('img/products/bc_1_thum.jpg')}}" alt="{{Lang::get('page.bc_1')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.bc_1')}}</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/bc_2')}}" class="thumbnail">
+                        <img src="{{asset('img/products/bc_2_thum.jpg')}}" alt="{{Lang::get('page.bc_2')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.bc_2')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/eh')}}" class="thumbnail">
+                        <img src="{{asset('img/products/eh_thum.jpg')}}" alt="{{Lang::get('page.eh')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.eh')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
 
         @elseif($category == 'mbh')
             <div class="row">
@@ -136,6 +187,54 @@
 
                         <div class="caption">
                             <p class="text-center">{{Lang::get('page.rtg')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
+        @elseif($category == 'gc')
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/gc')}}" class="thumbnail">
+                        <img src="{{asset('img/products/gc_thum.jpg')}}" alt="{{Lang::get('page.gc')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.gc')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
+        @elseif($category == 'bc')
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/bc_1')}}" class="thumbnail">
+                        <img src="{{asset('img/products/bc_1_thum.jpg')}}" alt="{{Lang::get('page.bc_1')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.bc_1')}}</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/bc_2')}}" class="thumbnail">
+                        <img src="{{asset('img/products/bc_2_thum.jpg')}}" alt="{{Lang::get('page.bc_2')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.bc_2')}}</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr/>
+        @elseif($category == 'eh')
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <a href="{{url('product/eh')}}" class="thumbnail">
+                        <img src="{{asset('img/products/eh_thum.jpg')}}" alt="{{Lang::get('page.eh')}}">
+
+                        <div class="caption">
+                            <p class="text-center">{{Lang::get('page.eh')}}</p>
                         </div>
                     </a>
                 </div>
