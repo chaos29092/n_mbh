@@ -384,11 +384,36 @@ height and position, stabilization performance and steel structure stress state.
 
     //电动葫芦
     'eh' => 'Electric Hoist',
+    'eh_p1' => 'CD1(MD1) type electric hoist is a small light lifting equipment, which can be mounted on single beam overhead cranes, gantry cranes, jib cranes, and can be used as winch with little changes. It is widely used in factories, mines, ports, warehouses, garages and other materials lifting application.',
+    'eh_p2' => 'CD1 series electric hoist works at normal speed, can meet the general working requirement; MD1 series electric hoist has two speed, normal speed and slow speed. The slow working speed is designed to meet the precision handling, sand boxes, maintenance of machine tools and other high precision applications. Therefore, MD1 series electric hoist is more widely used than CD1 series electric hoist.',
+    'eh_p3' => 'The lifting weight of CD1(MD1) electric hoist is 1t, 2t, 3t, 5t, 10t and 16t; the lifting height is 6m, 9m and 12m. ',
+    'eh_p4' => 'We can also design and produce 20t and 32t electric hoist based on client requirement.',
+    'eh_p5' => 'Nucleon can also design and produce explosion proof, metallurgy and European electric hoist and chain hoist for automobile production line.',
 
     //门式起重机
     'gc' => 'Gantry Crane',
+    'gc_img_1' => 'Hoisting height of 400m gantry crane with 40t crane',
+    'gc_img_2' => 'Double girder gantry crane',
+    'gc_img_3' => 'MH type electric hoist single girder gantry crane',
+    'gc_p1' => 'Gantry cranes are mostly used for outdoor processing and material handling. ',
+    'gc_sum_1' => 'Gantry Cranes can be classified as follows:',
+    'gc_sum_2' => 'In accordance with the number of main beam can be divided into single girder and double girder;',
+    'gc_sum_3' => 'In accordance with the model of main beam can be divided into box beam and joint type;',
+    'gc_sum_4' => 'In accordance with the structure form of legs can be divided into L type, A type and U type;',
+    'gc_sum_5' => 'According to the cantilever requirement can be divided into double cantilever type, single cantilever type and no boom type;',
+    'gc_sum_6' => 'According to the application can be divided into road construction, railway construction, shipbuilding, logistics, etc..',
+    'gc_sum_7' => 'Nucleon is qualified and experienced for the design and production of all these types cranes.',
 
-    //桥式起重机
-    'bc' => 'Bridge Crane',
-
+//桥式起重机
+    'bc' => 'girder overhead cranes',
+    'bc_1' => 'Single girder overhead cranes',
+    'bc_2' => 'double girder overhead or bridge crane',
+    'bc_1_p1' => 'LD model single girder overhead crane introduction: (Max.Load: 20T) LD model single girder overhead crane is characterized by more reasonable structure and higher strength steel as a whole. Used together with CD1 model and MD1 model electric hoist as a complete set, it is a light duty crane with a capacity of 1 to 20 tons. The span is 7.5-28.5m. Working grade is A3-A4. Working temperature is -25℃ to 40℃.',
+    'bc_1_sum_1' => 'This product is widely used in plants, warehouses, material stocks to lift goods. It is prohibited to use the equipment in the combustible, explosive or corrosive environment. This product has two operational methods, ground or operational room which has open model and closed model and can be installed on left or right side according to the practical situation. And the direction of entering the gate has two forms, sideway and ends in order to satisfy the users’ choice under different conditions.',
+    'bc_1_sum_2' => 'Remark: we can also supply metallurgy electric single girder overhead crane, single girder suspension crane, low headroom electric suspension single girder crane.  ',
+    'bc_2_p1' => 'Double girder overhead cranes, with larger lifting capacity and more steady operation comparing with single girder overhead crane, are widely used at workshops. The lifting speed can be designed in accordance with the client\'s specific requirement.',
+    'bc_2_sum_1' => 'QD model double girder overhead or bridge crane with hook is mainly used in inside workshop. It is divided into two working class: A5 and A6 according to the use grade and load-up condition. The lifting capacity is 5T, 10T, 16/3.2T, 20/5T, 32/5T, 50/10T, 75/20T, 100/20T, 125/32T, 150/32T, 160/32T, 200/50T, 250/50T, 300/75T, 350/80T, 400/80T, 450/100T, 500/100T, 550/100T, 800/150T.',
+    'bc_2_sum_2' => 'There are three kinds of method for entering the platform of cab from the side, from the end and from the top. The figure is the side entrance; arrowhead A shows the end entrance; the top entrance is at the place there is no door.',
+    'bc_2_sum_3' => 'The cab can be either fixed at the left end or at the right end; the figure shows that the cab is fixed at left end.',
+    'bc_2_sum_4' => 'Safe slide wire or angle iron can be used for electric conduction of the crane; it can be either at the opposite side of the cab or at the same side of the cab.',
 );
