@@ -60,4 +60,7 @@ nucleon - {{Lang::get('page.bc_2')}}
 
 @section('product_content_2')
     <h3>{{Lang::get('page.parameters')}}</h3>
+    <img src="{{asset('img/products/bc_table_3.jpg')}}" alt="{{Lang::get('page.bc_2')}} {{Lang::get('page.parameters')}}"/>
+    <br/><br/>
+    <img src="{{asset('img/products/bc_table_4.jpg')}}" alt="{{Lang::get('page.bc_2')}} {{Lang::get('page.parameters')}}"/>
 @stop
