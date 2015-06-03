@@ -405,7 +405,7 @@ height and position, stabilization performance and steel structure stress state.
     'gc_sum_7' => 'Nucleon is qualified and experienced for the design and production of all these types cranes.',
 
 //桥式起重机
-    'bc' => 'girder overhead cranes',
+    'bc' => 'overhead cranes',
     'bc_1' => 'Single girder overhead cranes',
     'bc_2' => 'double girder overhead or bridge crane',
     'bc_1_p1' => 'LD model single girder overhead crane introduction: (Max.Load: 20T) LD model single girder overhead crane is characterized by more reasonable structure and higher strength steel as a whole. Used together with CD1 model and MD1 model electric hoist as a complete set, it is a light duty crane with a capacity of 1 to 20 tons. The span is 7.5-28.5m. Working grade is A3-A4. Working temperature is -25℃ to 40℃.',
