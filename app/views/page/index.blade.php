@@ -34,7 +34,7 @@ nucleon - {{Lang::get('page.about_p4')}}
             </div>
             <div class="container" id="productImg">
                 <div class="row">
-                  <div class="col-xs-6 col-md-4">
+                  <div class="col-md-4">
                     <a href="{{url('products/mbh')}}" class="thumbnail">
                       <img src="{{asset('img/products/mbh_150t.jpg')}}" alt="{{Lang::get('page.smbh')}}">
                       <div class="caption">
@@ -42,7 +42,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-4">
+                  <div class="col-md-4">
                     <a href="{{url('products/rmg')}}" class="thumbnail">
                       <img src="{{asset('img/products/rmg.jpg')}}" alt="{{Lang::get('page.rmg')}}">
                       <div class="caption">
@@ -50,7 +50,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-4">
+                  <div class="col-md-4">
                     <a href="{{url('products/rtg')}}" class="thumbnail">
                       <img src="{{asset('img/products/rtg.jpg')}}" alt="{{Lang::get('page.rtg')}}">
                       <div class="caption">
@@ -58,9 +58,9 @@ nucleon - {{Lang::get('page.about_p4')}}
                       </div>
                     </a>
                   </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-6 col-md-4">
+
+
+                  <div class="col-md-4">
                     <a href="{{url('products/gc')}}" class="thumbnail">
                       <img src="{{asset('img/products/gc.jpg')}}" alt="{{Lang::get('page.gc')}}">
                       <div class="caption">
@@ -68,7 +68,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-4">
+                  <div class="col-md-4">
                     <a href="{{url('products/bc')}}" class="thumbnail">
                       <img src="{{asset('img/products/bc.jpg')}}" alt="{{Lang::get('page.bc')}}">
                       <div class="caption">
@@ -76,7 +76,7 @@ nucleon - {{Lang::get('page.about_p4')}}
                       </div>
                     </a>
                   </div>
-                  <div class="col-xs-6 col-md-4">
+                  <div class="col-md-4">
                     <a href="{{url('products/eh')}}" class="thumbnail">
                       <img src="{{asset('img/products/eh.jpg')}}" alt="{{Lang::get('page.eh')}}">
                       <div class="caption">

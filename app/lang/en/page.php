@@ -361,7 +361,7 @@ height and position, stabilization performance and steel structure stress state.
     //rtg表格
     'rtg_t_1' => 'Load capacity (under hook) (hons)',
     'rtg_t_2' => 'working class',
-    'rtg_t_3' => ' lifting height (m)',
+    'rtg_t_3' => 'lifting height (m)',
     'rtg_t_4' => 'stack height',
     'rtg_t_5' => 'stack 3 pass 4~stack 5 pass 6',
     'rtg_t_6' => 'Span (numbers of containers in span)',
